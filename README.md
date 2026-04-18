@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sobirov Salohiddin</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sobirov Salohiddin</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 IT Specialist at an automotive dealership managing full technical operations
@@ -32,15 +32,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/sobirovbacend">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sobirovbacend&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="sobirovbacend's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sobirovbacend&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="sobirovbacend's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=sobirovbacend&theme=dark&hide_border=true&cache_seconds=86400" alt="sobirovbacend's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sobirovbacend&theme=onedark&hide_border=true&cache_seconds=86400" alt="sobirovbacend's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=sobirovbacend&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sobirov Salohiddin's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=sobirovbacend&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sobirov Salohiddin's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sobirovbacend&theme=dark&radius=10" alt="sobirovbacend's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sobirovbacend&theme=onedark&radius=10" alt="sobirovbacend's Activity Graph" />
 </p>
 
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/sobirovbacend">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sobirovbacend&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sobirovbacend&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -89,9 +89,6 @@
 <p align="center">
   <a href="www.linkedin.com/in/sobirovsalohiddindeveloper">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/917846129">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@backend_uz">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
