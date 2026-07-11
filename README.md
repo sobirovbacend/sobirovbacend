@@ -17,7 +17,7 @@
 - 🧩 Familiar with system integration and interested in learning microservices architecture
 - 🚀 Handle system monitoring, deployment processes, and performance optimization
 - 🔐 Focused on reliability, security, and continuous system improvement
-- 📚 Planning to further learn FastAPI, microservices architecture, mobile development, and other modern programming technologies
+- 📚 Planning to further learn microservices architecture, mobile development, and other modern programming technologies
 
 
 ## 🧠 My Focus Areas
